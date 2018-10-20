@@ -1,0 +1,64 @@
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\TelegramBot.exe.config
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\TelegramBot.exe
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\TelegramBot.pdb
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Telegram.Bot.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Telegram.Bot.xml
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.Form1.resources
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.Properties.Resources.resources
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csproj.GenerateResource.cache
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csproj.CopyComplete
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.exe
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.pdb
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csprojAssemblyReference.cache
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\ApiAiSDK.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Auth.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Core.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Dialogflow.v2.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.pdb
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.xml
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Auth.pdb
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Auth.xml
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Core.pdb
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Core.xml
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Dialogflow.v2.pdb
+C:\Users\Tet\Documents\Visual Studio projects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Dialogflow.v2.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\TelegramBot.exe.config
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\TelegramBot.exe
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\TelegramBot.pdb
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\ApiAiSDK.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Auth.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Core.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Dialogflow.v2.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\MoreLinq.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\nunit.framework.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Telegram.Bot.dll
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.pdb
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Auth.pdb
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Auth.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Core.pdb
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Core.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Dialogflow.v2.pdb
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Google.Apis.Dialogflow.v2.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\MoreLinq.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\nunit.framework.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\bin\Release\Telegram.Bot.xml
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csprojAssemblyReference.cache
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\obj\Release\TelegramBot.Form1.resources
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\obj\Release\TelegramBot.Properties.Resources.resources
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csproj.GenerateResource.cache
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\obj\Release\TelegramBot.csproj.CopyComplete
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\obj\Release\TelegramBot.exe
+C:\Users\Tet\Documents\VisualStudioprojects\TelegramBot\TelegramBot\obj\Release\TelegramBot.pdb
